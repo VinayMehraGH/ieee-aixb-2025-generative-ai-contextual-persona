@@ -1,0 +1,74 @@
+{
+  "call_id": "Call 3",
+  "title": "Follow-up Resolution Call",
+  "date": "2024-04-12",
+  "duration_minutes": 11,
+  "customer": {
+    "name": "John Martinez"
+  },
+  "agent": {
+    "name": "Michael Chen"
+  },
+  "dialogue": [
+    {
+      "speaker": "Agent",
+      "text": "Good afternoon, Mr. Martinez. This is Michael from Grand Hotels calling you back as promised. I have great news about your room situation."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Finally. What's the update?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I'm pleased to inform you that we've secured a deluxe sea-facing room for you - Room 412. It has a perfect ocean view and is actually a corner room, so you'll have even better views than originally booked. The room is ready for you now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay, that's what I wanted in the first place. So we can move now?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Absolutely. The hotel staff is standing by to assist with moving your belongings, and housekeeping has already prepared the room. You'll also keep all the additional compensations we discussed - the $200 credit, complimentary dinner, and spa services."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Good. But I have to say, Michael, while I appreciate you fixing this, this whole situation has been a nightmare. We've lost half our first day dealing with this mess. My wife and I came here to relax and celebrate, not to spend hours on the phone and moving rooms."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I completely understand your frustration, Mr. Martinez, and you're absolutely right. This should never have happened. To further acknowledge the inconvenience you've experienced, I'm adding an additional $100 credit to your account, bringing your total credit to $300."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I mean, the money is nice, but it's really about the principle. We trusted Grand Hotels with our anniversary trip, and you guys let us down."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You're absolutely correct, and I want to personally ensure this never happens again. I'm also arranging for a bottle of champagne and chocolate-covered strawberries to be delivered to your new room as a gesture of goodwill for your anniversary."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That's... actually very thoughtful. Thank you."
+    },
+    {
+      "speaker": "Agent",
+      "text": "It's the least we can do. I've also made detailed notes on your customer profile about this incident and our resolution to ensure any future bookings receive special attention. Is there anything else I can do for you right now?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No, I think we're good. I just want to get to the new room and hopefully salvage the rest of our anniversary."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand completely. The hotel manager will personally ensure your move goes smoothly. Please don't hesitate to call me directly if you encounter any other issues. My direct line is 800-555-0199, extension 247."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright, thank you Michael. I do appreciate you following through on your promise to call back."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You're welcome, Mr. Martinez. I hope the rest of your anniversary celebration is everything you hoped for. Thank you for your patience and for giving us the opportunity to make this right."
+    }
+  ]
+}

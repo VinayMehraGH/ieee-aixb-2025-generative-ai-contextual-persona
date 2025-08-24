@@ -1,0 +1,150 @@
+{
+  "call_id": "Call 6",
+  "title": "Second Follow-Up - Billing Issue Still Unresolved",
+  "date": "2024-08-22",
+  "duration_minutes": 13,
+  "customer": {
+    "name": "David Miller"
+  },
+  "agent": {
+    "name": "Natalie Perez"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "text": "It\u2019s been a week and I still haven\u2019t heard back about my billing dispute."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m really sorry for the delay, Mr. Miller. Let me check the status of your case."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You said it would be resolved within 7 business days. Today is day 7."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You\u2019re absolutely right. Give me just a moment to pull up the latest notes."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is unbelievable. Every time I call, it\u2019s the same story."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I completely understand how frustrating this must be for you."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You keep saying that but nothing gets done."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I see here that the investigation is still marked as \u2018in progress\u2019. I\u2019ll reach out to the team right now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why is it taking so long? This is a simple mistake."
+    },
+    {
+      "speaker": "Agent",
+      "text": "It appears there\u2019s a backlog in the investigations queue. I apologize for the delay."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I don\u2019t care about your backlog. I care about my bill being fixed."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You\u2019re absolutely right. Let me escalate this to a priority case immediately."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You should have done that the first time I called."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You\u2019re correct, Mr. Miller. I\u2019ll also request a manager to review your case today."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I expect a resolution by tomorrow."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll push to make that happen, but the standard process can still take a few more days."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is unacceptable. I want someone accountable."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ve added myself as the point of contact and will personally keep you updated daily."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You better, because if I don\u2019t hear back soon, I\u2019m filing a complaint."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, and I want to resolve this before it comes to that."
+    },
+    {
+      "speaker": "Customer",
+      "text": "What exactly are you waiting on? Why can\u2019t you just fix it now?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We need approval from the compliance team to remove the charges officially."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Then call them while I\u2019m on the line."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Unfortunately, they work via internal queue, but I\u2019ve marked it urgent now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You keep using the word \u2018urgent\u2019, but nothing changes."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I completely understand how you feel. I assure you, I\u2019ve escalated it as high as possible today."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine. But I\u2019m not hanging up until I get confirmation that someone is actually working on it."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I just spoke with a supervisor who confirmed it\u2019s now at the top of their queue."
+    },
+    {
+      "speaker": "Customer",
+      "text": "And how soon will I hear back?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "You should receive an update within 48 hours. I\u2019ll also call you personally tomorrow with a status update."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. But this is your last chance."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood, Mr. Miller. I\u2019ll make sure you\u2019re taken care of."
+    },
+    {
+      "speaker": "Customer",
+      "text": "We\u2019ll see. Goodbye."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Miller. Goodbye."
+    }
+  ]
+}

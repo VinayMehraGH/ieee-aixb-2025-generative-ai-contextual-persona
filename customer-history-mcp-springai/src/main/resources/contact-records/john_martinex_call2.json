@@ -1,0 +1,90 @@
+{
+  "call_id": "Call 2",
+  "title": "Complaint - Wrong Room Assignment",
+  "date": "2024-04-12",
+  "duration_minutes": 14,
+  "customer": {
+    "name": "John Martinez"
+  },
+  "agent": {
+    "name": "Michael Chen"
+  },
+  "dialogue": [
+    {
+      "speaker": "Agent",
+      "text": "Good afternoon, Grand Hotels customer service. This is Michael speaking. How can I help you today?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Hi Michael, I am extremely frustrated right now. I just checked into the Ocean View Resort in Miami, and I was given a room that faces the parking lot, not the ocean. My confirmation number is GH-458792."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I'm very sorry to hear about this issue, Mr. Martinez. Let me pull up your reservation immediately... I can see here that you booked a deluxe sea-facing room with guaranteed ocean view. This is clearly not what you received. Can you tell me what room number you were assigned?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Room 237. The front desk staff told me that all the sea-facing rooms are occupied due to \"overbooking issues\" and that this is the best they can do. This is completely unacceptable. I specifically booked and paid extra for a sea-facing room for my anniversary."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I completely understand your frustration, Mr. Martinez, and I sincerely apologize for this error. This should never have happened, especially for such an important occasion. Let me contact the hotel directly right now to resolve this issue."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I've already been at the front desk for 20 minutes arguing with them. They keep telling me there's nothing they can do and that I should call customer service. This is ruining our anniversary trip."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I'm putting you on a brief hold while I contact the hotel manager directly. I will not end this call until we have a solution for you. Please bear with me for just a moment."
+    },
+    {
+      "speaker": "Agent",
+      "text": "[Hold music for 3 minutes]"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Mr. Martinez, thank you for holding. I've spoken with the hotel manager, and unfortunately, they are correct that they're currently overbooked on sea-facing rooms due to a group booking error on their end."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is ridiculous! I made this reservation a month ago with a guarantee!"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I completely agree, and we are going to make this right. Here's what we're going to do: First, I'm upgrading you to our presidential suite at no additional charge - it has a partial ocean view. Second, I'm providing you with a $200 credit for the inconvenience. Third, I'm personally going to monitor the situation, and if a full sea-facing room becomes available during your stay, we'll move you immediately."
+    },
+    {
+      "speaker": "Customer",
+      "text": "The presidential suite? That's nice, but I specifically wanted the full ocean view. This is supposed to be a special trip."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, and I'm not done yet. The hotel manager has also agreed to provide you with complimentary dinner for two at their rooftop restaurant, which has a beautiful ocean view, and complimentary spa services. Additionally, I'm going to call you back personally within one hour with an update on room availability."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Look, I appreciate you trying to fix this, but this has already put a damper on our trip. My wife is upset, and we've wasted an hour dealing with this when we should be celebrating."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I sincerely apologize for the stress this has caused you and your wife. I'm also going to extend your check-out time to 2 PM tomorrow at no charge and ensure that our general manager personally meets with you to address this situation. What's the best number to reach you in the next hour?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "555-0123. I expect to hear from you within the hour, and I expect a real solution."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You absolutely will, Mr. Martinez. I'm setting a reminder now. Is there anything else I can do for you at this moment?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Just fix this situation. That's all I want."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I will. Thank you for your patience, and again, I apologize for this unacceptable error."
+    }
+  ]
+}

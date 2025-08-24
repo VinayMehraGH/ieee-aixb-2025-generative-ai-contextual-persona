@@ -1,0 +1,134 @@
+{
+  "call_id": "Call 5",
+  "title": "Follow-Up Billing Dispute - Overbilling",
+  "date": "2024-08-15",
+  "duration_minutes": 11,
+  "customer": {
+    "name": "David Miller"
+  },
+  "agent": {
+    "name": "Natalie Perez"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "text": "I\u2019m calling again because my phone bill this month is still incorrect."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m really sorry to hear that, Mr. Miller. Let me pull up your account."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is getting ridiculous. I thought we resolved this last month."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I completely understand your frustration. I see the adjustment from last month was processed."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Then why is my current bill still higher than it should be?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "It looks like new international charges appeared this month."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Again, I didn\u2019t make any international calls. This is unacceptable."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I believe you. Let me check the call logs to confirm."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You said that last time. This keeps happening."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You\u2019re right, and I\u2019m going to escalate this case to a senior investigations team."
+    },
+    {
+      "speaker": "Customer",
+      "text": "What do you mean escalate? Why isn\u2019t it resolved now?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We need to conduct a deeper review of the account activity to determine the cause."
+    },
+    {
+      "speaker": "Customer",
+      "text": "And how long will that take? I want a timeline."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Typically, our investigations team resolves such issues within 7 business days."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So I\u2019m just supposed to wait again? That\u2019s not good enough."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand your concern, but I promise to monitor the case personally."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You promised last time too. I\u2019m losing faith in your company."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I assure you we\u2019re taking this seriously. I\u2019ll also waive any late fees for this month."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You better. I\u2019m not paying another inflated bill."
+    },
+    {
+      "speaker": "Agent",
+      "text": "We\u2019ll make sure the correct amount is reflected once the investigation is complete."
+    },
+    {
+      "speaker": "Customer",
+      "text": "And what if it isn\u2019t? What\u2019s my recourse then?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "If we fail to resolve it, you can request a formal review by the compliance department."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Maybe I should just switch providers."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I really hope you\u2019ll give us a chance to fix this before making that decision."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You have 7 business days. That\u2019s it."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood. I\u2019ll document your expectations clearly in the case file."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019ll be checking back. Don\u2019t let me down again."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I won\u2019t. You\u2019ll hear back from me directly with updates."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. Goodbye."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you for your patience, Mr. Miller. Goodbye."
+    }
+  ]
+}

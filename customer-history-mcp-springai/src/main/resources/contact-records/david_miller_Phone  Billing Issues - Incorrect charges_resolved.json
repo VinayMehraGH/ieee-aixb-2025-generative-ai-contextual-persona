@@ -1,0 +1,174 @@
+{
+  "call_id": "Call 9",
+  "title": "Billing Dispute - Incorrect Charges",
+  "date": "2024-07-15",
+  "duration_minutes": 10,
+  "customer": {
+    "name": "David Miller"
+  },
+  "agent": {
+    "name": "Natalie Perez"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "text": "I\u2019m calling because my phone bill has incorrect charges again. Why does this keep happening?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m sorry to hear that, Mr. Miller. Let me pull up your account and take a look."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is the third month in a row! I shouldn\u2019t have to keep calling you."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I completely understand your frustration. I\u2019ll get this fixed right away."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You said that last time too, and yet here we are."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You\u2019re absolutely right, and I\u2019ll also make sure it doesn\u2019t happen again."
+    },
+    {
+      "speaker": "Customer",
+      "text": "What exactly are these charges for?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I see here it\u2019s for international calls. Were you traveling last month?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No! I\u2019ve never made an international call on this line."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood. I\u2019ll review the call logs to confirm and remove any incorrect charges."
+    },
+    {
+      "speaker": "Customer",
+      "text": "How long will this take? I have a meeting in 10 minutes."
+    },
+    {
+      "speaker": "Agent",
+      "text": "We should be able to resolve it before then. I\u2019m already checking."
+    },
+    {
+      "speaker": "Customer",
+      "text": "And what about the previous months? Will you refund those too?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, I\u2019ll check the past two statements and adjust them as needed."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why does this system even allow wrong charges to appear?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "There can sometimes be routing errors. We\u2019re working to improve it."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That\u2019s not good enough. I\u2019ve wasted hours on this already."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I hear you. I\u2019ll also apply a goodwill credit for your inconvenience."
+    },
+    {
+      "speaker": "Customer",
+      "text": "How much?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I can offer you a $25 credit on top of the refunds."
+    },
+    {
+      "speaker": "Customer",
+      "text": "It should be more, given how much time I\u2019ve spent."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let me speak to my supervisor about increasing the credit."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine. I\u2019m waiting."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you for holding. I was able to get approval for a $50 credit."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That\u2019s better. Make sure it shows up on my next bill."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Absolutely. I\u2019ll email you a confirmation today as well."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You said that before, and it never came."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I apologize. I\u2019m sending it as soon as we end this call."
+    },
+    {
+      "speaker": "Customer",
+      "text": "And the wrong charges are being removed?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, I\u2019ve already processed the adjustments for the past three months."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. But how do I know it won\u2019t happen again?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ve also placed a monitoring flag on your account to prevent this in the future."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Good. I expect no more mistakes."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood. I\u2019ll personally follow up with you next month to make sure everything is correct."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019ll hold you to that."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I appreciate your patience, Mr. Miller. Is there anything else I can assist you with today?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No. Just fix it."
+    },
+    {
+      "speaker": "Agent",
+      "text": "It\u2019s all taken care of. Thank you for giving us the opportunity to resolve this. Have a great day."
+    },
+    {
+      "speaker": "Customer",
+      "text": "We\u2019ll see."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Take care, Mr. Miller. Goodbye."
+    }
+  ]
+}

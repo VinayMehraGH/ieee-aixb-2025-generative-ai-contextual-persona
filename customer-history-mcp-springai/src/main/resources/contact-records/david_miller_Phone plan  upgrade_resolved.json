@@ -1,0 +1,190 @@
+{
+  "call_id": "Call 8",
+  "title": "Plan Upgrade Request - Resolved",
+  "date": "2024-11-12",
+  "duration_minutes": 16,
+  "customer": {
+    "name": "David Miller"
+  },
+  "agent": {
+    "name": "Natalie Perez"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "text": "Hi, I\u2019d like to upgrade my phone plan. I think I need more data."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Of course, Mr. Miller. Let me bring up your account and review your current plan."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019ve been going over my limit every month lately."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I see that. You\u2019re currently on the 10GB plan, and last month you used about 14GB."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Yeah, I work from home more now and use my phone for tethering."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood. We have a 20GB plan that would fit your needs better."
+    },
+    {
+      "speaker": "Customer",
+      "text": "What\u2019s the price difference?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "It\u2019s an additional $15 per month."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Does it include the same benefits I have now?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, and it also includes hotspot priority and free roaming in Canada and Mexico."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That sounds good. Any hidden fees I should know about?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "No hidden fees. Just the extra $15 monthly charge, prorated for this month."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay, and if I want to go back to the lower plan later?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "You can downgrade at any time without penalty."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. What about my current contract? Does it extend?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "No change to your contract term. The upgrade is effective immediately."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Do I get a confirmation email?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, I\u2019ll send it as soon as we finish here."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. Can we also check if there are any promotions running?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Actually, there\u2019s a loyalty promotion. You qualify for a $10 monthly discount for 12 months."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Oh nice. Does that apply to the upgraded plan too?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, it does. So effectively your increase is just $5 per month."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That\u2019s acceptable. Please proceed with the upgrade."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Very good. I\u2019m updating your account now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "When will the changes take effect?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Immediately. Your new plan is active now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. Will my next bill show the correct charges?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, and I\u2019ll include a detailed breakdown in your confirmation email."
+    },
+    {
+      "speaker": "Customer",
+      "text": "And can you make sure my autopay picks up the new amount?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Already updated. Autopay will reflect the correct amount."
+    },
+    {
+      "speaker": "Customer",
+      "text": "What about my data rollover? Does that change?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Your unused data still rolls over up to 5GB each month."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Good. And I still get free streaming?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, streaming benefits remain the same."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. And I don\u2019t have to sign anything?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "No signature required. Everything is documented in your account."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. Can you send me a text confirmation too?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Absolutely. You should receive it within a few minutes."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright, thanks for making this easy."
+    },
+    {
+      "speaker": "Agent",
+      "text": "It\u2019s my pleasure, Mr. Miller. Is there anything else I can help with today?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No, that\u2019s all. I appreciate your help."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you for choosing us, and enjoy your upgraded plan."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Will do. Goodbye."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Have a wonderful day, Mr. Miller. Goodbye."
+    }
+  ]
+}

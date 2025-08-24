@@ -1,0 +1,82 @@
+{
+  "call_id": "Call 1",
+  "title": "Initial Booking - Sea Facing Room",
+  "date": "2024-03-15",
+  "duration_minutes": 12,
+  "customer": {
+    "name": "John Martinez"
+  },
+  "agent": {
+    "name": "Sarah Williams"
+  },
+  "dialogue": [
+    {
+      "speaker": "Agent",
+      "text": "Good morning, thank you for calling Grand Hotels reservations. This is Sarah speaking. How may I assist you today?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Hi Sarah, I'm looking to book a room for my anniversary trip. I'd like to make a reservation at the Ocean View Resort in Miami for April 12th to 15th."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Congratulations on your anniversary! I'd be happy to help you with that reservation. Let me check our availability for those dates at Ocean View Resort Miami. Can you please provide me with your full name and contact information?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Sure, it's John Martinez, that's J-O-H-N M-A-R-T-I-N-E-Z. My phone number is 555-0123 and email is john.martinez@email.com."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you, Mr. Martinez. I see we have availability for April 12th through 15th. That's three nights, checking out on the 15th. What type of room would you prefer?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "I specifically want a sea-facing room. This is for our 10th anniversary, so the ocean view is really important to us. Money isn't the primary concern here - I want to make sure we get that view."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Absolutely, I understand how special this occasion is. Let me check our sea-facing room availability... Yes, I have a deluxe sea-facing room available for those dates. It's $280 per night, so that would be $840 for the three nights plus taxes and fees, bringing your total to $966."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That sounds perfect. Can you guarantee that this will be a sea-facing room? I don't want any surprises when we arrive."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, Mr. Martinez, I'm confirming this as a deluxe sea-facing room with guaranteed ocean view. Let me enter this into our system now. I'll need a credit card to secure the reservation."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Great, it's a Visa card, number 4532-1234-5678-9012, expiration 08/26, security code 123."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. I'm processing that now... Perfect, your reservation is confirmed. Your confirmation number is GH-458792. Let me review the details: John Martinez, deluxe sea-facing room at Ocean View Resort Miami, April 12th through 15th, three nights, total $966. The room includes complimentary breakfast and Wi-Fi."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Excellent. Just to confirm one more time - this is definitely a sea-facing room, correct?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, absolutely. I have it noted in your reservation as \"deluxe sea-facing room - guaranteed ocean view.\" You'll receive a confirmation email within the next hour with all these details."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Perfect. What's the check-in time?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Check-in is at 3 PM and check-out is at 11 AM. Early check-in may be available upon request, subject to availability."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Great, thank you so much for your help, Sarah."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You're very welcome, Mr. Martinez. We look forward to hosting your anniversary celebration. Have a wonderful day!"
+    }
+  ]
+}

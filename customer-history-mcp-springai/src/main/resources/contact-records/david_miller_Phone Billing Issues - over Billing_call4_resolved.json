@@ -1,0 +1,158 @@
+{
+  "call_id": "Call 7",
+  "title": "Final Follow-Up - Billing Issue Resolved",
+  "date": "2024-08-29",
+  "duration_minutes": 9,
+  "customer": {
+    "name": "David Miller"
+  },
+  "agent": {
+    "name": "Natalie Perez"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "text": "It\u2019s been another week. Please tell me you finally fixed my bill."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Good news, Mr. Miller. I just checked, and the adjustments were processed this morning."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Are you sure this time? Because I\u2019ve heard that before."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, I personally reviewed your account before calling you today."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So what was the problem all along?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "It turns out there was a duplicate entry in the billing system, which we\u2019ve now corrected."
+    },
+    {
+      "speaker": "Customer",
+      "text": "And what about the charges from last month and the month before?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Those have all been credited back to your account."
+    },
+    {
+      "speaker": "Customer",
+      "text": "And the goodwill credit you promised?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "That\u2019s also applied. You\u2019ll see a $50 credit on your next statement."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Hmm. I want written confirmation."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll email you a detailed summary right after this call."
+    },
+    {
+      "speaker": "Customer",
+      "text": "And the flag you mentioned to prevent this happening again?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Already placed. Your account is now monitored for any irregularities."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Good. What about my autopay? Will it deduct the correct amount?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, autopay has been updated to reflect the corrected charges."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. What happens if it\u2019s wrong again?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "In that unlikely case, you can contact me directly, and I\u2019ll fix it immediately."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You better. This whole ordeal has been a nightmare."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I completely understand. I truly appreciate your patience throughout this process."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So my balance now is what?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Your current balance is $42.17 after all adjustments."
+    },
+    {
+      "speaker": "Customer",
+      "text": "And when will that show online?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "It should already reflect online, but at most within 24 hours."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019ll check right after this call."
+    },
+    {
+      "speaker": "Agent",
+      "text": "That\u2019s great. Feel free to reach out if you see anything incorrect."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine. At least it\u2019s resolved now."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Yes, Mr. Miller. I\u2019ve personally ensured everything is corrected."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. I appreciate you finally getting it done."
+    },
+    {
+      "speaker": "Agent",
+      "text": "It\u2019s been my priority to resolve this for you."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. Anything else I need to do?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "No, you\u2019re all set. Just keep an eye on your next statement for confirmation."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Will do. Thanks for fixing this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You\u2019re very welcome. Thank you for giving us the chance to make it right."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright then. Goodbye."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Have a wonderful day, Mr. Miller. Goodbye."
+    }
+  ]
+}
