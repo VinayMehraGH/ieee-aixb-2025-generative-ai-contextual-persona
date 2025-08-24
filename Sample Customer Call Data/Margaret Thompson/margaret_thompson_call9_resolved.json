@@ -1,0 +1,322 @@
+{
+  "call_id": "Call 9",
+  "title": "Requesting plan change confirmation - Resolved",
+  "date": "2025-11-10",
+  "duration_minutes": 15,
+  "customer": {
+    "name": "Margaret Thompson"
+  },
+  "agent": {
+    "name": "Benjamin Sullivan"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "text": "I have a problem with my account again."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m here to help, Ms. Thompson. Can you describe the requesting plan change confirmation?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "It\u2019s really frustrating, I thought this was fixed."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m sorry about the inconvenience. Let me check your account."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why does this keep happening?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll do my best to resolve it right away."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay, but this needs to be handled properly this time."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood. Let\u2019s go step by step."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine, what do you need me to do?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let\u2019s start by verifying your information."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright, go ahead."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. I see the requesting plan change confirmation here now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So can you fix it?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m working on it now, please bear with me."
+    },
+    {
+      "speaker": "Customer",
+      "text": "How long will it take?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We should resolve this within a few minutes."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Good. Because I can\u2019t keep calling every week."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand completely, Ms. Thompson."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. What\u2019s the next step?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let me escalate this to the right department if needed."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why wasn\u2019t it escalated earlier?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I apologize for the delay. I\u2019ll escalate it now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine. What happens after that?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "They\u2019ll review and update me shortly."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. I\u2019m waiting."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I have a problem with my account again."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m here to help, Ms. Thompson. Can you describe the requesting plan change confirmation?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "It\u2019s really frustrating, I thought this was fixed."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m sorry about the inconvenience. Let me check your account."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why does this keep happening?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll do my best to resolve it right away."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay, but this needs to be handled properly this time."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood. Let\u2019s go step by step."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine, what do you need me to do?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let\u2019s start by verifying your information."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright, go ahead."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. I see the requesting plan change confirmation here now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So can you fix it?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m working on it now, please bear with me."
+    },
+    {
+      "speaker": "Customer",
+      "text": "How long will it take?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We should resolve this within a few minutes."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Good. Because I can\u2019t keep calling every week."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand completely, Ms. Thompson."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. What\u2019s the next step?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let me escalate this to the right department if needed."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why wasn\u2019t it escalated earlier?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I apologize for the delay. I\u2019ll escalate it now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine. What happens after that?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "They\u2019ll review and update me shortly."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. I\u2019m waiting."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I have a problem with my account again."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m here to help, Ms. Thompson. Can you describe the requesting plan change confirmation?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "It\u2019s really frustrating, I thought this was fixed."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m sorry about the inconvenience. Let me check your account."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why does this keep happening?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll do my best to resolve it right away."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay, but this needs to be handled properly this time."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood. Let\u2019s go step by step."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine, what do you need me to do?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let\u2019s start by verifying your information."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright, go ahead."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. I see the requesting plan change confirmation here now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So can you fix it?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m working on it now, please bear with me."
+    },
+    {
+      "speaker": "Customer",
+      "text": "How long will it take?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We should resolve this within a few minutes."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Good. Because I can\u2019t keep calling every week."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand completely, Ms. Thompson."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. What\u2019s the next step?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let me escalate this to the right department if needed."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why wasn\u2019t it escalated earlier?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I apologize for the delay. I\u2019ll escalate it now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine. What happens after that?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "They\u2019ll review and update me shortly."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. I\u2019m waiting."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Thanks for resolving this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You\u2019re very welcome, Ms. Thompson. Have a great day!"
+    }
+  ]
+}

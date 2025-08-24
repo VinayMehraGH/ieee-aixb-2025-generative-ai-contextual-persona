@@ -1,0 +1,310 @@
+{
+  "call_id": "Call 3",
+  "title": "Deposit Processing Follow-Up",
+  "date": "2025-04-20",
+  "duration_minutes": 12,
+  "customer": {
+    "name": "Laura Greene"
+  },
+  "agent": {
+    "name": "Daniel Rivera"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "text": "I\u2019m really worried about this, I hope it can be fixed."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Don\u2019t worry, Ms. Greene. We\u2019ll get this sorted out."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019ve been losing sleep over this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, and I\u2019m here to help you through it."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Please tell me it\u2019s not too late."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Not at all. We can resolve this right away."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay\u2026 what do I need to do?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll walk you through each step, it\u2019s easy."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019m nervous I\u2019ll mess something up."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You won\u2019t. I\u2019m here to guide you the whole way."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright\u2026 go ahead."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let\u2019s start by verifying your identity."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. What information do you need?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Your account number and the last 4 of your SSN, please."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright, here they are."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. Let me pull up your account now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Do you see the problem on your end?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I do. Give me just a moment to investigate."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Please hurry\u2026"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Of course, I\u2019m working as fast as possible."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019m really worried about this, I hope it can be fixed."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Don\u2019t worry, Ms. Greene. We\u2019ll get this sorted out."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019ve been losing sleep over this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, and I\u2019m here to help you through it."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Please tell me it\u2019s not too late."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Not at all. We can resolve this right away."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay\u2026 what do I need to do?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll walk you through each step, it\u2019s easy."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019m nervous I\u2019ll mess something up."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You won\u2019t. I\u2019m here to guide you the whole way."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright\u2026 go ahead."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let\u2019s start by verifying your identity."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. What information do you need?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Your account number and the last 4 of your SSN, please."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright, here they are."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. Let me pull up your account now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Do you see the problem on your end?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I do. Give me just a moment to investigate."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Please hurry\u2026"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Of course, I\u2019m working as fast as possible."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019m really worried about this, I hope it can be fixed."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Don\u2019t worry, Ms. Greene. We\u2019ll get this sorted out."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019ve been losing sleep over this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, and I\u2019m here to help you through it."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Please tell me it\u2019s not too late."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Not at all. We can resolve this right away."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay\u2026 what do I need to do?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll walk you through each step, it\u2019s easy."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019m nervous I\u2019ll mess something up."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You won\u2019t. I\u2019m here to guide you the whole way."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright\u2026 go ahead."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let\u2019s start by verifying your identity."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay. What information do you need?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Your account number and the last 4 of your SSN, please."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright, here they are."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. Let me pull up your account now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Do you see the problem on your end?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I do. Give me just a moment to investigate."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Please hurry\u2026"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Of course, I\u2019m working as fast as possible."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019m really worried about this, I hope it can be fixed."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Don\u2019t worry, Ms. Greene. We\u2019ll get this sorted out."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019ve been losing sleep over this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, and I\u2019m here to help you through it."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Please tell me it\u2019s not too late."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Not at all. We can resolve this right away."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Okay\u2026 what do I need to do?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll walk you through each step, it\u2019s easy."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I\u2019m nervous I\u2019ll mess something up."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You won\u2019t. I\u2019m here to guide you the whole way."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright\u2026 go ahead."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Let\u2019s start by verifying your identity."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Oh thank goodness. That\u2019s a relief."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Glad I could help. Take care, Ms. Greene."
+    }
+  ]
+}

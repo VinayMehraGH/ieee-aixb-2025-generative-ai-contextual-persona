@@ -1,0 +1,430 @@
+{
+  "call_id": "Call 2",
+  "title": "Device Malfunction - Unresolved",
+  "date": "2025-03-15",
+  "duration_minutes": 20,
+  "customer": {
+    "name": "Margaret Thompson"
+  },
+  "agent": {
+    "name": "Lily Morgan"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "text": "My device stopped working this morning. The screen is black."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m sorry to hear that, Ms. Thompson. Let me help you troubleshoot it."
+    },
+    {
+      "speaker": "Customer",
+      "text": "It won\u2019t turn on no matter what I press."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Okay, let\u2019s start by checking if it\u2019s charged. Can you plug it in?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Yes, I already tried that. Still nothing."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Alright. Do you see any lights or hear any sounds when you press the power button?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No. Completely dead."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Have you dropped it or exposed it to water recently?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No, I\u2019ve kept it safe."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Okay, let\u2019s try holding the power and volume buttons for 20 seconds."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright\u2026 still nothing."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you for trying. Let me check if it\u2019s still under warranty."
+    },
+    {
+      "speaker": "Customer",
+      "text": "It should be. I bought it less than a year ago."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I see here it was purchased 11 months ago. So it is under warranty."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Good. So can you just replace it?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We need to perform a few more checks before approving a replacement."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I don\u2019t understand why. It\u2019s clearly broken."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, but this is part of our process. Let\u2019s continue."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Do you have access to another charger to rule out a faulty cable?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Yes, I tried another cable already."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Alright, thanks for confirming. Let me escalate this to our technical team."
+    },
+    {
+      "speaker": "Customer",
+      "text": "How long will that take?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "It may take up to 3\u20135 business days for them to complete their review."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That\u2019s too long! I need this device working now."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, and I\u2019ll mark your case as urgent."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You said that last time when I had a login issue too."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You\u2019re right, Ms. Thompson. I\u2019ll personally follow up on this daily."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Will someone come to pick it up?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Not yet. The team may reach out to guide you on return shipping."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So I just sit and wait?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "For now, yes. But I\u2019ll keep you updated."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Is there a store I can take it to instead?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "You can, but they will also submit it to the technical team."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is so frustrating."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand completely. I wish I could resolve it right now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So you can\u2019t fix it today?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Unfortunately not today, but I promise to expedite the process."
+    },
+    {
+      "speaker": "Customer",
+      "text": "My device stopped working this morning. The screen is black."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m sorry to hear that, Ms. Thompson. Let me help you troubleshoot it."
+    },
+    {
+      "speaker": "Customer",
+      "text": "It won\u2019t turn on no matter what I press."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Okay, let\u2019s start by checking if it\u2019s charged. Can you plug it in?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Yes, I already tried that. Still nothing."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Alright. Do you see any lights or hear any sounds when you press the power button?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No. Completely dead."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Have you dropped it or exposed it to water recently?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No, I\u2019ve kept it safe."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Okay, let\u2019s try holding the power and volume buttons for 20 seconds."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright\u2026 still nothing."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you for trying. Let me check if it\u2019s still under warranty."
+    },
+    {
+      "speaker": "Customer",
+      "text": "It should be. I bought it less than a year ago."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I see here it was purchased 11 months ago. So it is under warranty."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Good. So can you just replace it?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We need to perform a few more checks before approving a replacement."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I don\u2019t understand why. It\u2019s clearly broken."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, but this is part of our process. Let\u2019s continue."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Do you have access to another charger to rule out a faulty cable?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Yes, I tried another cable already."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Alright, thanks for confirming. Let me escalate this to our technical team."
+    },
+    {
+      "speaker": "Customer",
+      "text": "How long will that take?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "It may take up to 3\u20135 business days for them to complete their review."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That\u2019s too long! I need this device working now."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, and I\u2019ll mark your case as urgent."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You said that last time when I had a login issue too."
+    },
+    {
+      "speaker": "Agent",
+      "text": "You\u2019re right, Ms. Thompson. I\u2019ll personally follow up on this daily."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Will someone come to pick it up?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Not yet. The team may reach out to guide you on return shipping."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So I just sit and wait?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "For now, yes. But I\u2019ll keep you updated."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Is there a store I can take it to instead?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "You can, but they will also submit it to the technical team."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is so frustrating."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand completely. I wish I could resolve it right now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So you can\u2019t fix it today?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "Unfortunately not today, but I promise to expedite the process."
+    },
+    {
+      "speaker": "Customer",
+      "text": "My device stopped working this morning. The screen is black."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019m sorry to hear that, Ms. Thompson. Let me help you troubleshoot it."
+    },
+    {
+      "speaker": "Customer",
+      "text": "It won\u2019t turn on no matter what I press."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Okay, let\u2019s start by checking if it\u2019s charged. Can you plug it in?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Yes, I already tried that. Still nothing."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Alright. Do you see any lights or hear any sounds when you press the power button?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No. Completely dead."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Have you dropped it or exposed it to water recently?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "No, I\u2019ve kept it safe."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Okay, let\u2019s try holding the power and volume buttons for 20 seconds."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright\u2026 still nothing."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you for trying. Let me check if it\u2019s still under warranty."
+    },
+    {
+      "speaker": "Customer",
+      "text": "It should be. I bought it less than a year ago."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I see here it was purchased 11 months ago. So it is under warranty."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Good. So can you just replace it?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We need to perform a few more checks before approving a replacement."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I don\u2019t understand why. It\u2019s clearly broken."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, but this is part of our process. Let\u2019s continue."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Do you have access to another charger to rule out a faulty cable?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Yes, I tried another cable already."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Alright, thanks for confirming. Let me escalate this to our technical team."
+    },
+    {
+      "speaker": "Customer",
+      "text": "How long will that take?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "It may take up to 3\u20135 business days for them to complete their review."
+    },
+    {
+      "speaker": "Customer",
+      "text": "That\u2019s too long! I need this device working now."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, and I\u2019ll mark your case as urgent."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine. But I\u2019m not happy about this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand, and I\u2019ll stay in touch with updates daily, Ms. Thompson."
+    }
+  ]
+}

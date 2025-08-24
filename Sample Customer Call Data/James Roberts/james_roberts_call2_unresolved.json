@@ -1,0 +1,310 @@
+{
+  "call_id": "Call 2",
+  "title": "Payment Processing Problem",
+  "date": "2025-03-15",
+  "duration_minutes": 10,
+  "customer": {
+    "name": "James Roberts"
+  },
+  "agent": {
+    "name": "Sophia Martinez"
+  },
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "text": "I need answers now, I don\u2019t have all day."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand your urgency, Mr. Roberts. Let me check your account."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is taking too long already."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I apologize for the delay, I\u2019m working as quickly as I can."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why is this so complicated?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll guide you through it step by step."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine, but hurry up."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Of course. Can you confirm your order number for me?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "It\u2019s in front of you, isn\u2019t it?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I need you to confirm for security reasons."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. It\u2019s 12345."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. Let me pull up your details now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You should already know this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I want to make sure everything is accurate before proceeding."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Whatever. Just fix it."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Working on it right now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So what\u2019s the holdup?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We\u2019re waiting for system confirmation. Almost done."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I don\u2019t want excuses, just results."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood. I\u2019ll resolve this as soon as possible."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Better."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I need answers now, I don\u2019t have all day."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand your urgency, Mr. Roberts. Let me check your account."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is taking too long already."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I apologize for the delay, I\u2019m working as quickly as I can."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why is this so complicated?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll guide you through it step by step."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine, but hurry up."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Of course. Can you confirm your order number for me?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "It\u2019s in front of you, isn\u2019t it?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I need you to confirm for security reasons."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. It\u2019s 12345."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. Let me pull up your details now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You should already know this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I want to make sure everything is accurate before proceeding."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Whatever. Just fix it."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Working on it right now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So what\u2019s the holdup?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We\u2019re waiting for system confirmation. Almost done."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I don\u2019t want excuses, just results."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood. I\u2019ll resolve this as soon as possible."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Better."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I need answers now, I don\u2019t have all day."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand your urgency, Mr. Roberts. Let me check your account."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is taking too long already."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I apologize for the delay, I\u2019m working as quickly as I can."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why is this so complicated?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll guide you through it step by step."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine, but hurry up."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Of course. Can you confirm your order number for me?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "It\u2019s in front of you, isn\u2019t it?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I need you to confirm for security reasons."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Alright. It\u2019s 12345."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Thank you. Let me pull up your details now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "You should already know this."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I want to make sure everything is accurate before proceeding."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Whatever. Just fix it."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Working on it right now."
+    },
+    {
+      "speaker": "Customer",
+      "text": "So what\u2019s the holdup?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "We\u2019re waiting for system confirmation. Almost done."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I don\u2019t want excuses, just results."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Understood. I\u2019ll resolve this as soon as possible."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Better."
+    },
+    {
+      "speaker": "Customer",
+      "text": "I need answers now, I don\u2019t have all day."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I understand your urgency, Mr. Roberts. Let me check your account."
+    },
+    {
+      "speaker": "Customer",
+      "text": "This is taking too long already."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I apologize for the delay, I\u2019m working as quickly as I can."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Why is this so complicated?"
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll guide you through it step by step."
+    },
+    {
+      "speaker": "Customer",
+      "text": "Fine, but hurry up."
+    },
+    {
+      "speaker": "Agent",
+      "text": "Of course. Can you confirm your order number for me?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "It\u2019s in front of you, isn\u2019t it?"
+    },
+    {
+      "speaker": "Customer",
+      "text": "Unbelievable. Still not fixed."
+    },
+    {
+      "speaker": "Agent",
+      "text": "I\u2019ll continue working on it and keep you updated."
+    }
+  ]
+}
